@@ -1,0 +1,6 @@
+Developer: Cássio Winkler
+Site: https://cassio.tec.br/
+From: Brasil
+
+Last update: 2025-07-30
+Standards: HTML5, CSS3
